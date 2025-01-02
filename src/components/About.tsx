@@ -21,7 +21,7 @@ const About = () => {
                 <div className='flex flex-col mt-4'>
                     <h2 className='text-2xl font-bold text-white/80'>Education</h2>
                     <p className='text-1g text-white/70 mt-2'>Bachelor of Science in Information Technology (BSCIT)</p>
-                    <p className='text-1g text-white/70 mt-2  '>Bhartiya Vidya Bhavan's College</p>
+                    <p className='text-1g text-white/70 mt-2  '>Bhartiya Vidya Bhavans College</p>
 
 
                 </div>

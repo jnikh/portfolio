@@ -5,7 +5,6 @@ import cursor from '../assets/icon1.png'
 import lighting from '../assets/icon2.png';
 import { motion } from 'framer-motion';
 import profilepic from '../assets/profilepic.png';
-import { Console } from 'console';
 
 const Hero = () => {
     

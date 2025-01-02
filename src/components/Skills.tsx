@@ -1,8 +1,6 @@
 "use client";
-import { div, label } from 'framer-motion/client';
 import React from 'react'
 import { FaHtml5 , FaCss3Alt, FaReact , FaJsSquare ,FaNodeJs, FaPython, FaWordpress , FaPhp } from 'react-icons/fa';
-import { FaP } from 'react-icons/fa6';
 
 
 const skillIcons =[
