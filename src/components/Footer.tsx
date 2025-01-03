@@ -1,6 +1,6 @@
 'use client'
 import React from 'react'
-import { FaLinkedin, FaTwitter, FaInstagram } from 'react-icons/fa6'
+import { FaLinkedin, FaTwitter, FaInstagram , FaWhatsapp} from 'react-icons/fa6'
 
 const Footer = () => {
   return (
@@ -13,6 +13,8 @@ const Footer = () => {
         <a href="https://www.linkedin.com/in/nikhil-jha-145793239/" target='_blank' className='hover:text-gray-300'><FaLinkedin size={24}/></a>
         <a href="https://x.com/Nikhilj61057141" className='hover:text-gray-300'><FaTwitter size={24}/></a>
         <a href="#" className='hover:text-gray-300'><FaInstagram size={24}/></a>
+        <a href="http://Wa.me/+919136165912" target='_blank' className='hover:text-gray-300'><FaWhatsapp size={24}/></a>
+
       </div>
     </div>
   )
