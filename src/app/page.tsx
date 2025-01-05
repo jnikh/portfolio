@@ -20,7 +20,7 @@ export default function Home() {
      <Skills/>
      <Contact/>
      <Footer/>
-     {/* <SplashCursor/> */}
+     <SplashCursor/>
     
      
    </>
