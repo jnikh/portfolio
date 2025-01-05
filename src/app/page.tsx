@@ -5,6 +5,8 @@ import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
 import Portfolio from "@/components/Portfolio";
 import Skills from "@/components/Skills";
+import SplashCursor from "@/components/SplashCursor";
+
 
 
 
@@ -18,6 +20,8 @@ export default function Home() {
      <Skills/>
      <Contact/>
      <Footer/>
+     {/* <SplashCursor/> */}
+    
      
    </>
   );
